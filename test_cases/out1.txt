@@ -1,0 +1,2 @@
+It is possible to make change for 3:
+1, 2
